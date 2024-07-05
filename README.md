@@ -74,7 +74,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 ![Screenshot 2024-06-26 224020](https://github.com/AaronWhiteTech/osticket-prereqs/assets/155200818/dd0c770c-abe0-4bac-aa03-8aee307e035e)
 
-Go back to IIS, sites -> Default -> osTicket
-Double-click PHP ManagerClick “Enable or disable an extension” Enable the following php_imap.dll, php_intl.dll and  php_opcache.dll
+Go back to IIS, sites - Default - osTicket
+Double-click PHP Manager, Click “Enable or disable an extension” Enable the following php_imap.dll, php_intl.dll and  php_opcache.dll
 Refresh the osTicket site in your browser
 
