@@ -31,7 +31,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - (Step 1)  go to settings programs and features-turn features on and off, select IIS-IIS Management Console, World Wide Web Services -Application Development Features -CGI -Common HTTP Features
 
+
+
+
 ![Screenshot 2024-06-26 203449](https://github.com/AaronWhiteTech/osticket-prereqs/assets/155200818/9887f5e4-74f6-4c17-9f86-ad8e0959629b)
+
+
+
 (Step 2)Create the directory C:\PHP, Download and Install PHP Manager into PHP folder
 
 
@@ -43,18 +49,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![Screenshot 2024-06-26 202949](https://github.com/AaronWhiteTech/osticket-prereqs/assets/155200818/4649fb56-d1ad-44ae-aa26-f47408290278)
 
-(Step 4)Download and install MYSQL
 
-click Typical Setup, Launch Configuration Wizard (post install), click Standard Configuration, type Password1, keep root username
+
+(Step 4)Download and install MYSQL, click Typical Setup, Launch Configuration Wizard (post install), click Standard Configuration, type Password1, keep root username
+
+
 
 ![Screenshot 2024-06-26 204154](https://github.com/AaronWhiteTech/osticket-prereqs/assets/155200818/e8c68aba-cd94-4f7b-9d84-f2d890a451dc)
 
+
+
 (Step 5) Open IIS as an Admin, Register PHP from within IIS, download osticket, Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
-
-
-
-
 
 
 
